@@ -1,0 +1,11 @@
+{
+    "name": "nodejs-step-by-step",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "roll-twice": "ROLL_COUNT=2 node app.js"
+    },
+    "author": "Chalani",
+    "license": "ISC"
+  }
